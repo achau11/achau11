@@ -1,6 +1,6 @@
 # Ahmed Chaudry
 
-**Software Engineer 
+Software Engineer 
 
 I build and maintain software that connects mobile applications, backend services, and physical devices. My professional work spans Android development, IoT integrations, app releases, and full-stack engineering.
 
