@@ -4,10 +4,10 @@ Software Engineer
 
 I build and maintain software that connects mobile applications, backend services, and physical devices. My professional work spans Android development, IoT integrations, app releases, and full-stack engineering.
 
-### What I work with
+### What I have worked with
 - **Backend & web:** Node.js, JavaScript, REST APIs, SQL, React
-- **Mobile:** Kotlin, Java, Android; iOS application maintenance and releases
-- **Connected devices:** Android-based dedicated devices, device integrations, and IoT workflows
+- **Mobile:** Kotlin, Java
+- **Connected devices:** Android-based dedicated devices, device integrations
 - **Delivery:** Production debugging, app-store releases, deployment, and ongoing maintenance
 
 ### Current focus
