@@ -14,6 +14,3 @@ I build and maintain software that connects mobile applications, backend service
 
 Building a **personal intelligence application** around journaling and AI-assisted reflection, with a longer-term focus on privacy-conscious, cross-platform experiences. The commercial product's source code is private.
 
-### About these repositories
-
-Most of my production work is proprietary and cannot be published. Public repositories here include past personal projects, prototypes, and learning exercises; they are not a complete record of my professional engineering work.
